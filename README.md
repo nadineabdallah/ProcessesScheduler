@@ -1,2 +1,2 @@
-# Threads-Scheduler
-Threads/processes scheduler using three-levels feedback scheduling algorithm
+# Processes Scheduler
+Processes scheduler using three-levels feedback scheduling algorithm
